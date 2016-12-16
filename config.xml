@@ -115,7 +115,7 @@
     <icon src="icon.png" />
 
     <content src="index.html" />
-    <access /> 
+    <access origin="*" subdomains="false" />  
     <allow-navigation href="*" /><!-- iOS render iframe content -->
     <!-- https://github.com/phonegap/build/issues/508 -->
     <allow-intent href="tel:*" />
