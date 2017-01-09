@@ -4,7 +4,8 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "org.mannaministryquiz.app"
-        version   = "1.0.0">
+        version   = "1.0.0"
+		android-versionCode="10000">
 
     <!-- Change app id (above), name, description, and author. App ID can be any reverse domain name, such as com.mycompany.app -->
     <name>Manna Ministry, Bible Quiz</name>
@@ -29,6 +30,7 @@
     <preference name="StatusBarOverlaysWebView" value="false" />
     <preference name="StatusBarBackgroundColor" value="#000000" />
     <preference name="StatusBarStyle" value="lightcontent" />
+	<preference name="loadUrlTimeoutValue" value="700000" />
 
    
    
