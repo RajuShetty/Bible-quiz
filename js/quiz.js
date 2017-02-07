@@ -1,5 +1,5 @@
 
-    var quiztitle = "";
+    var quiztitle = "Level 1";
 
     /**
     * Set the information about your questions here. The correct answer string needs to match
@@ -8,7 +8,7 @@
     */
     var quiz = [
         {
-            "question"      :   "Q1: ಯೇಸುಕ್ರಿಸ್ತನು ಯಾವ ವಯಸ್ಸಿನಲ್ಲಿ ತನ್ನ ಸೇವೆಯನ್ನು ಪ್ರಾರಂಭಿಸಿದನು. ? ' At what Age did Jesus begin His Ministry?",
+            "question"      :   "Q1: ಯೇಸುಕ್ರಿಸ್ತನು ಯಾವ ವಯಸ್ಸಿನಲ್ಲಿ ತನ್ನ ಸೇವೆಯನ್ನು ಪ್ರಾರಂಭಿಸಿದನು. ?    At what Age did Jesus begin His Ministry?",
             "image"         :   "http://res.cgvdt.vn/article/2015/3/91/b_gap-go-chua-jesus.jpg",
             "choices"       :   [
                                     "30",
@@ -21,7 +21,7 @@
         },
         {
             "question"      :   "Q2: ಯೇಸು ಕ್ರಿಸ್ತನು ಮಾಡಿದ ಮೊದಲ ಅದ್ಭುತ ಯಾವುದು? What was the first miracle that Jesus performed ?",
-            "image"         :   "http://upload.wikimedia.org/wikipedia/commons/thumb/9/94/US_%242_obverse-high.jpg/320px-US_%242_obverse-high.jpg",
+            "image"         :   "",
             "choices"       :   [
                                     "5 ರೊಟ್ಟಿ 2 ಮೀನುಗಳಿಂದ 5000 ಜನರನ್ನು ಪೋಷಿಸಿದ್ದು , fed 5000 people with 5 loaves & 2 fishes.",
 									"ನೀರಿನ ಮೇಲೆ ನಡೆದು ಬಂದದ್ದು , walked on water",
@@ -33,7 +33,7 @@
         },
         {
             "question"      :   "Q3: ಯೇಸುಕ್ರಿಸ್ತನು ಯಾವ ಸ್ಥಳದಲ್ಲಿ ಬೆಳೆದನು? Where did Jesus grow up ?",
-            "image"         :   "",
+            "image"         :   "http://www.turnbacktogod.com/wp-content/uploads/2008/10/jesus-with-children-1211.jpg",
             "choices"       :   [
                                     "ಯೆರೂಸಲೇಮ, Jerusalem",
 									"ಯೆರಿಕೋ, Jericho",
