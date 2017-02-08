@@ -33,7 +33,7 @@
         },
         {
             "question"      :   "Q3: ಯೇಸುಕ್ರಿಸ್ತನು ಯಾವ ಸ್ಥಳದಲ್ಲಿ ಬೆಳೆದನು? Where did Jesus grow up ?",
-            "image"         :   "http://www.turnbacktogod.com/wp-content/uploads/2008/10/jesus-with-children-1211.jpg",
+            "image"         :   "",
             "choices"       :   [
                                     "ಯೆರೂಸಲೇಮ, Jerusalem",
 									"ಯೆರಿಕೋ, Jericho",
