@@ -44,8 +44,6 @@ Primary use: App & Mobile Website
 /*------------------------------------------------------------------
 1. UTILITY
 -------------------------------------------------------------------*/
-
-
 .container {
 	position: relative;
 	padding:16px;
@@ -154,10 +152,10 @@ box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.1);
 	background: url('../img/6.jpg') no-repeat center / cover;
 }
 .bg-7 {
-	background: url('../img/petersilway.jpg') no-repeat center / cover;
+	background: url('../img/11.jpg') no-repeat center / cover;
 }
 .bg-10 {
-	background: url('../img/shop.jpg') no-repeat center / cover;
+	background: url('../img/background.jpg') no-repeat center / cover;
 }
 .bg-20 {
 	background: url('../img/20.jpg') no-repeat center / cover;
@@ -165,11 +163,8 @@ box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.1);
 .bg-shop {
 	background: url('../img/shop.jpg') no-repeat center / cover;
 }
-.bg-slide {
-	background: url('../img/slide3.jpg') no-repeat center / cover;
-}
 .bg-blog {
-	background: url('../img/petersilway.jpg') no-repeat center / cover;
+	background: url('../img/blog.jpg') no-repeat center / cover;
 }
 .bg-product {
 	background: url('../img/product2.jpg') no-repeat center / cover;
@@ -271,11 +266,12 @@ box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.1);
 body, html {
 	color: #76838f;
 	background-color: #f1f4f5;
-
 }
 
-
-h1, h2, h3, h4, h5, h6 {
+h1{
+	color: #4e4e4e;
+}
+ h2, h3, h4, h5, h6 {
 	color: #37474f;
 }
 i {
@@ -390,12 +386,13 @@ h4 {
 	margin-bottom: 11px;
 }
 p {
-	font-size: 14px;
-    margin: 0 0 11px;
+	font-size: 20px;
+    margin: 12px 0 11px;
     font-weight: 300;
 }
 span {
 	font-size: 12px;
+	color: #76838f;
 }
 .highlight {
     padding: 16px;
@@ -685,7 +682,7 @@ textarea.normal {
 .drawer-header {
 	position: relative;
     height: 140px;
-	background: url(../img/navigation-bg.png) center / cover;
+	background: url(../img/user-bg.jpg) center / cover;
 }
 .drawer-header img {
 	width: 48px;
@@ -1126,8 +1123,8 @@ thead, tbody, .mdl-data-table__cell--non-numeric {
 }
 .contact-user span {
     display: block;
-    padding: 14px 17px;
-    font-size: 24px;
+    padding: 14px 11px;
+    font-size: 22px;
     color: #ffffff;
 }
 .contact p {
@@ -1333,7 +1330,7 @@ thead, tbody, .mdl-data-table__cell--non-numeric {
 	padding-bottom: 16px;
 }
 .fullscreen-title {
-	height: 165vh;
+	height: 100vh;
 	width: 100%;
 	text-align: center;
 }
@@ -1566,3 +1563,4 @@ td .mdl-checkbox__ripple-container {
 	margin-top: 16px;
 }
 }
+
